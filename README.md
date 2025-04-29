@@ -6,6 +6,7 @@ This project was completed as part of a hands-on learning experience provided by
 
 ## Application Architecture Diagram
 
+![Voting App Architecture](Voting-app-arch.png)
 
 ## Application Components
 
